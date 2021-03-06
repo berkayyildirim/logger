@@ -48,9 +48,6 @@ const AddTechModal = () => {
                     </div>
                 </div>
             </div>
-            
-            
-
             <div className="modal-footer">
                 <a 
                     href="#!"
